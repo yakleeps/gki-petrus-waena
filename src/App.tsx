@@ -1,6 +1,6 @@
 /**
  * GKI Petrus Waena - Portal Informasi dan Pelayanan Jemaat Terpadu
- * Gereja Kristen Injili di Tanah Papua — Klasis Port Numbay
+ * Gereja Kristen Injili di Tanah Papua — Klasis Sentani
  *
  * App.tsx FINAL
  * - Maintenance mode aman untuk production
