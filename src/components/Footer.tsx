@@ -120,11 +120,11 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, isHighContrast }) =>
 
         {/* Bottom copyright */}
         <div className="pt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-3">
-          <p>© {new Date().getFullYear()} GKI Petrus Waena. Hak cipta dilindungi undang-undang.</p>
+          <p>© {new Date().getFullYear()} TimMdBase GKI Petrus Waena. Hak cipta dilindungi undang-undang.</p>
           <div className="flex items-center gap-4">
             <span className="hover:text-slate-300">Tata Gereja GKI di Tanah Papua</span>
             <span>•</span>
-            <span className="hover:text-slate-300">Klasis Port Numbay</span>
+            <span className="hover:text-slate-300">Klasis Sentani</span>
           </div>
         </div>
       </div>
