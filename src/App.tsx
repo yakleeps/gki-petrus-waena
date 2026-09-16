@@ -70,7 +70,7 @@ import { Footer } from './components/Footer';
  * Untuk membuka kembali website:
  *   const MAINTENANCE_MODE = false;
  */
-const MAINTENANCE_MODE = false;
+const MAINTENANCE_MODE = true;
 
 /**
  * App hanya bertugas menentukan halaman awal.
