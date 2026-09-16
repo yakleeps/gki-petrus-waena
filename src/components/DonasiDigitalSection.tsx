@@ -50,7 +50,8 @@ export const DonasiDigitalSection: React.FC<DonasiDigitalSectionProps> = ({ isHi
     perpuluhan: 'Perpuluhan Warga Jemaat',
     pembangunan: 'Pembangunan Sarana & Gedung Gereja',
     diakonia_kasih: 'Diakonia Kasih (Lansia, Janda & Yatim)',
-    bantuan_bencana: 'Aksi Kasih Peduli Sosial',
+    janji_iman: 'Aksi komitmen sukrela jemaat',
+    iuran_wajib: 'Aksi tiap Sidi Jemaat Gereja'
   };
 
   const handleAmountSelect = (val: number) => {
