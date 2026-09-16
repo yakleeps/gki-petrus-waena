@@ -1,0 +1,6 @@
+{
+  "name": "GKI Petrus Waena",
+  "description": "Portal Informasi dan Pelayanan Jemaat GKI Petrus Waena: Jadwal Ibadah, Warta Berita, Pendaftaran Baptisan, Pengingat WhatsApp, Galeri Foto, Donasi Digital, dan Fitur Aksesibilitas Lansia.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
